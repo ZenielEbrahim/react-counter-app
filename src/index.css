@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: darkslategray;
+  /* display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center; */
+}
+
+button{
+  width: fit-content;
+  padding: 2px 16px;
+  font-size: 1.1rem;
+}

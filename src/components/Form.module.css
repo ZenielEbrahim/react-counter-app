@@ -1,0 +1,46 @@
+.container{
+    background-color: none;
+    height: 50vh;
+    width: 50vw;
+}
+
+
+
+.formControl{
+    background-color: deepskyblue;
+    height: 18vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.buttonControl{
+    height: 10.75vh;
+    background-color: deepskyblue;
+    padding: 8px 2vw;
+    display: flex;
+    justify-content: end;
+    margin-top: 4px;
+}
+.label{
+   color: aliceblue;;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.titleInput{
+    width:48vw;
+    height:6.5vh;
+    padding: 2px 8px;
+    font-size: 1.08rem;
+}
+
+.tallyInput{
+    width: 8vw;
+    height: 6.5vh;
+    padding: 2px 8px;
+    font-size: 1.1rem;
+}

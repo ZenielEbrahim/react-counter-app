@@ -1,0 +1,15 @@
+
+.dashboardStyles{
+    background-color: darkslateblue;
+    padding:2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 80vh;
+    width: 86vw;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
