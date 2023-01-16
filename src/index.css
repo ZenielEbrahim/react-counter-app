@@ -6,6 +6,7 @@
 
 body{
   background-color: darkslategray;
+  background-color: pink;
   /* display: flex;
   flex-direction: column;
   justify-content:center;
@@ -20,7 +21,7 @@ button{
 
 
 
-@media(300px <= width <=600px){
+@media(280px <= width <=600px){
   body{
     background-color: aliceblue;
   }

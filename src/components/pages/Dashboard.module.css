@@ -1,6 +1,7 @@
 
 .dashboardStyles{
     background-color: darkslateblue;
+    background-color: gold;
     padding:2rem;
     display: flex;
     flex-direction: column;
@@ -15,7 +16,7 @@
 }
 
 
-@media(300px <= width <=600px){
+@media(280px <= width <=600px){
    
     .dashboardStyles{
         background-color: brown;

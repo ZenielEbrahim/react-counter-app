@@ -4,7 +4,7 @@
     width: 80vw;
 }
 
-@media(300px <= width <=600px){
+@media(280px <= width <=600px){
     .container{
         background-color: yellowgreen;
         height: calc(60vh + 44px);

@@ -38,7 +38,7 @@
     align-items: center;
 }
 
-@media(300px <= width <= 600px) {
+@media(280px <= width <= 600px) {
     .innerContainer{
         background-color: white;
         color:darkslateblue;

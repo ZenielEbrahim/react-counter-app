@@ -32,7 +32,7 @@
 }
 
 
-@media(300px <= width <=600px){
+@media(280px <= width <=600px){
     .container{
         width: 90vw;
         height: 6vh;

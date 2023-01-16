@@ -10,7 +10,7 @@
 }
 
 
-@media(300px <= width <= 600px) {
+@media(280px <= width <= 600px) {
     .container{
         background-color: brown;
         color:aliceblue;
