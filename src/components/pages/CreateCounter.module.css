@@ -8,3 +8,17 @@
     top: 50%;
     transform: translate(-50%, -50%);
 }
+
+
+@media(300px <= width <= 600px) {
+    .container{
+        background-color: brown;
+        color:aliceblue;
+     
+        width:94vw;
+        position: absolute;
+        left:50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+    }
+}

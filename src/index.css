@@ -17,3 +17,16 @@ button{
   padding: 2px 16px;
   font-size: 1.1rem;
 }
+
+
+
+@media(300px <= width <=600px){
+  body{
+    background-color: aliceblue;
+  }
+  button{
+    width: fit-content;
+    padding: 2px 8px;
+    font-size: 0.8rem;
+  }
+}

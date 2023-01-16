@@ -3,3 +3,11 @@
     height: calc(60vh + 44px);
     width: 80vw;
 }
+
+@media(300px <= width <=600px){
+    .container{
+        background-color: yellowgreen;
+        height: calc(60vh + 44px);
+        width: 90vw;
+    }  
+}

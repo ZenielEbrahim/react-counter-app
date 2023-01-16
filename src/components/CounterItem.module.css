@@ -31,3 +31,39 @@
    
 }
 
+
+@media(300px <= width <=600px){
+    .container{
+        width: 90vw;
+        height: 6vh;
+        background-color: orange;
+        display: flex;
+        align-items: center;
+        margin-bottom: 4px;
+    }
+
+    .title{
+        /* background-color: blue; */
+        width: 60vw;
+        padding:4px;
+    }
+    .text{
+        color:white;
+        cursor: pointer;
+        padding:4px;
+    }
+    .count{
+        /* background-color: brown; */
+        width: 12vw;
+        padding:4px;
+        font-size:1.3rem;
+        color: aliceblue;
+    }
+    .counterBtns{
+        /* background-color: red; */
+        width: 18vw;
+        padding:4px;
+       
+    }
+    
+  }
