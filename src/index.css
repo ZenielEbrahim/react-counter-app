@@ -6,7 +6,7 @@
 
 body{
   background-color: darkslategray;
-  background-color: pink;
+  background-color:chartreuse;
   /* display: flex;
   flex-direction: column;
   justify-content:center;
@@ -20,6 +20,16 @@ button{
 }
 
 
+@media(min-width:280px) and (max-width:600px){
+  body{
+    background-color: green;
+  }
+  button{
+    width: fit-content;
+    padding: 2px 8px;
+    font-size: 0.8rem;
+  }
+}
 
 @media(280px <= width <=600px){
   body{
@@ -31,3 +41,7 @@ button{
     font-size: 0.8rem;
   }
 }
+
+
+
+

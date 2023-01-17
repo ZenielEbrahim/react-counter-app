@@ -16,7 +16,7 @@
 }
 
 
-@media(280px <= width <=600px){
+@media(min-width:280px) and (max-width:600px){
    
     .dashboardStyles{
         background-color: brown;
